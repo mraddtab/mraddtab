@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ron
-- 👀 I’m interested in building useful applications, and learning new things everyday.
+- 👀 I’m interested in building practical applications, and learning new things everyday.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on my "ToDo" productivity website.
 - 📫 How to reach me: ronaldchen4236@gmail.com
